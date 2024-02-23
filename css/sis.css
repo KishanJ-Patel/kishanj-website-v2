@@ -1,0 +1,52 @@
+.sis-block {
+  margin-top: 2% !important;
+}
+
+.sis-title {
+  font-family: 'Righteous', cursive;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 4rem;
+  color: #fff;
+  border-color: #AF32FF !important;
+}
+
+.sis-video-block {
+  margin-top: 6% !important;
+}
+
+.sis-download-link-block {
+  margin-top: 4% !important;
+}
+
+  .sis-download-link-block > a {
+      font-family: 'Outfit', sans-serif;
+      font-style: normal;
+      font-weight: 400;
+      font-size: 1.5rem;
+      color: #AF32FF !important;
+      transition: color 0.7s ease-in-out;
+  }
+
+      .sis-download-link-block > a:hover {
+          color: #FDF300 !important;
+      }
+
+.sis-description-block {
+  margin-top: 3% !important;
+}
+
+.sis-description {
+  font-family: 'Outfit', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.5rem;
+}
+
+.sis-img-list {
+  margin-top: 6% !important;
+}
+
+.sis-img-list img {
+  width: 620px;
+}

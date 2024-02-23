@@ -1,0 +1,52 @@
+.projectnavi-block {
+  margin-top: 2% !important;
+}
+
+.projectnavi-title {
+  font-family: 'Righteous', cursive;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 4rem;
+  color: #fff;
+  border-color: #AF32FF !important;
+}
+
+.projectnavi-video-block {
+  margin-top: 6% !important;
+}
+
+.projectnavi-download-link-block {
+  margin-top: 4% !important;
+}
+
+  .projectnavi-download-link-block > a {
+      font-family: 'Outfit', sans-serif;
+      font-style: normal;
+      font-weight: 400;
+      font-size: 1.5rem;
+      color: #AF32FF !important;
+      transition: color 0.7s ease-in-out;
+  }
+
+      .projectnavi-download-link-block > a:hover {
+          color: #FDF300 !important;
+      }
+
+.projectnavi-description-block {
+  margin-top: 3% !important;
+}
+
+.projectnavi-description {
+  font-family: 'Outfit', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.5rem;
+}
+
+.projectnavi-img-list {
+  margin-top: 6% !important;
+}
+
+.projectnavi-img-list img {
+  width: 320px;
+}
